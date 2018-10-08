@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import com.adam.message.HelloMessage;
 
-public class MessageTests {
+public class MessageTest {
 
 	@Test
 	public void test() {
