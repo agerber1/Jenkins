@@ -12,7 +12,7 @@ public class MessageTest {
 	public void test() {
 		
 		String actual = HelloMessage.createMessage();
-		String expected = "Hello World!";
+		String expected = "Hello Worlds!";
 		
 		assertEquals(expected, actual);
 	}
